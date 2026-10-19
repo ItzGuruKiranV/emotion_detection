@@ -1,0 +1,38 @@
+# Virtual environments
+venv/
+.venv/
+
+# Datasets & Large Weights
+data/raw/
+data/processed/
+dataset/
+datasets/
+models/*.h5
+models/*.bin
+results/**/optimizer.pt
+results/**/model.safetensors
+
+# Database & Runtime artifacts
+*.db
+*.sqlite3
+evaluation_report.json
+.pytest_cache/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Training checkpoints and generated results
+results/
+

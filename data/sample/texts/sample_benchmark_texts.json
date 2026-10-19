@@ -1,0 +1,30 @@
+[
+    {
+        "text": "I am absolutely thrilled and overjoyed with this incredible milestone!",
+        "expected_emotion": "happy"
+    },
+    {
+        "text": "I feel so devastated, alone, and completely heartbroken today.",
+        "expected_emotion": "sad"
+    },
+    {
+        "text": "I am furious that our work was destroyed without any explanation!",
+        "expected_emotion": "angry"
+    },
+    {
+        "text": "I am terrified and panicking about what will happen next.",
+        "expected_emotion": "fear"
+    },
+    {
+        "text": "Wow, I was totally astonished and stunned by the sudden turn of events!",
+        "expected_emotion": "surprise"
+    },
+    {
+        "text": "That spoiled food smells completely repulsive, gross, and nauseating.",
+        "expected_emotion": "disgust"
+    },
+    {
+        "text": "The meeting is scheduled tomorrow morning at 10 AM in room four.",
+        "expected_emotion": "neutral"
+    }
+]
